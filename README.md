@@ -9,4 +9,4 @@ GraphLang — это веб-компонент, который позволяе�
 Чтобы использовать GraphLang через CDN, добавьте следующий тег `<script>` в ваш HTML-файл:
 
 ```html
-<script src="https://graph-lang.github.io/cdn/graph-1.0/gs.js" defer></script>
+<script src="https://graph-lang.github.io/cdn/graph-1.0/gs.js" async></script>
